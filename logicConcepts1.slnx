@@ -2,4 +2,13 @@
   <Folder Name="/01/">
     <Project Path="IsNumerOddorNot/IsNumerOddorNot.csproj" Id="53f3d48e-ff54-45d7-91b8-19490c7ecb1c" />
   </Folder>
+  <Folder Name="/02/">
+    <Project Path="LargestNumber/LargestNumber.csproj" Id="bc382666-3c3a-4136-9d06-69e43055b097" />
+  </Folder>
+  <Folder Name="/03/">
+    <Project Path="OrderingOfThreeNumbers/OrderingOfThreeNumbers.csproj" Id="ee543ee0-a588-4f0b-a07c-46ba04357841" />
+  </Folder>
+  <Folder Name="/04/">
+    <Project Path="NumberIsMultipleOfAnother/NumberIsMultipleOfAnother.csproj" Id="b9f618a1-e54f-4137-88fa-1f161c3827b6" />
+  </Folder>
 </Solution>
