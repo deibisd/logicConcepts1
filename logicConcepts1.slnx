@@ -1,12 +1,14 @@
 <Solution>
   <Folder Name="/01/">
-    <Project Path="../../../../../../Downloads/logicConcepts1/IsNumerOddorNot/IsNumerOddorNot.csproj" Id="53f3d48e-ff54-45d7-91b8-19490c7ecb1c" />
+    <Project Path="IsNumerOddorNot/IsNumerOddorNot.csproj" />
   </Folder>
   <Folder Name="/02/">
-    <Project Path="../../../../../../Downloads/logicConcepts1/LargestNumber/LargestNumber.csproj" Id="bc382666-3c3a-4136-9d06-69e43055b097" />
+    <Project Path="OrderingOfThreeNumbers/OrderingOfThreeNumbers.csproj" />
   </Folder>
   <Folder Name="/03/">
-    <Project Path="../../../../../../Downloads/logicConcepts1/OrderingOfThreeNumbers/OrderingOfThreeNumbers.csproj" Id="ee543ee0-a588-4f0b-a07c-46ba04357841" />
+    <Project Path="LargestNumber/LargestNumber.csproj" />
   </Folder>
-  <Folder Name="/05/" />
+  <Folder Name="/04/">
+    <Project Path="NumberIsMultipleOfAnother/NumberIsMultipleOfAnother.csproj" />
+  </Folder>
 </Solution>
