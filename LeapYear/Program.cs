@@ -15,9 +15,9 @@ class Program
             else
                 Console.WriteLine("El año: " + anio + ", no es bisiesto");
 
-            Console.WriteLine("¿Continuar? (s/n)");
+            Console.WriteLine("¿Deseas Continuar? (si/no)");
             repetir = Console.ReadLine()!.ToLower();
-        } while (repetir == "s");
+        } while (repetir == "si");
     }
 }
 
