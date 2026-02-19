@@ -23,14 +23,20 @@ class Program
             double total = horas * valor;
 
             Console.WriteLine("Nombre: " + nombre);
+            Console.WriteLine("Salario mensual: " + total);
+
             if (total > minimo)
             {
-                Console.WriteLine("Salario mensual: " + total);
+                Console.WriteLine("(Sueldo superior al mínimo)");
+            }
+            else
+            {
+                Console.WriteLine("(Sueldo inferior al mínimo)");
             }
 
             Console.WriteLine("¿Desea ingresar otro empleado? (si/no)");
             continuar = Console.ReadLine().ToLower();
 
-        } while (continuar == "si");
+        } while (continuar == "si" || continuar == "s");
     }
 }
