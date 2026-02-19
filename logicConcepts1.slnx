@@ -14,4 +14,7 @@
   <Folder Name="/05/">
     <Project Path="LeapYear/LeapYear.csproj" Id="353df04f-e6f9-4b81-9141-61da9e6a89c7" />
   </Folder>
+  <Folder Name="/06/">
+    <Project Path="SimplePayroll/SimplePayroll.csproj" Id="5f4dcf7d-c827-4767-b974-295ac32a2df9" />
+  </Folder>
 </Solution>
